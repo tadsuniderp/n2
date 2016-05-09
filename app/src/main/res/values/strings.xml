@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Agenda de Compromisso</string>
+    <string name="action_settings">Settings</string>
+    <string name="ApresentacaoPrinc">Crie aqui a sua agenda de compromisso</string>
+    <string name="btnAdicionar">Adicionar Compromisso</string>
+    <string name="btnLocalizar">Pesquisar Compromisso</string>
+    <string name="btnFechar">Encerrar Agenda</string>
+
+</resources>
